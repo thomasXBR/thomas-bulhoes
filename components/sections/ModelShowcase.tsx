@@ -112,7 +112,7 @@ export function ModelShowcase() {
   return (
     <section id="model" className="py-24 border-b border-slate-800/60 relative">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <SectionHeading title="3D Models" />
+        <SectionHeading title="3D Models (Blender)" />
         <ModelsCarousel models={featuredModels} />
       </div>
     </section>
