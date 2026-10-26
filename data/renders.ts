@@ -35,5 +35,14 @@ export const featuredRenders: RenderItem[] = [
     src: "/models/wooden.jpg",
     alt: "Sample 3D Render",
   },
+  {
+    id: "2001",
+    title: "2001: A Space Odyssey",
+    description:
+      "A 3D render of Saturn, with its moon Iapetus and the Monolith from the book of 2001: A Space Odyssey.",
+    type: "video",
+    src: "/models/2001.mp4",
+    alt: "3D Render of the Monolith from 2001: A Space Odyssey",
+  }
 ];
 
